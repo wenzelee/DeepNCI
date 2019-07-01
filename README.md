@@ -14,7 +14,7 @@
  
 ## Build environment
 
-Python: 3.5
+Python: 3.6
 
 Tensorflow: 1.12.0
 
